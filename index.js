@@ -51,8 +51,8 @@ const DENOM_ZIG = 'uzig';
 
 const ORO_CONTRACT = 'zig10rfjm85jmzfhravjwpq3hcdz8ngxg7lxd0drkr';
 
-const LIQUIDITY_ORO_AMOUNT = 1; 
-const LIQUIDITY_ZIG_AMOUNT = 0.495169; 
+const LIQUIDITY_ORO_AMOUNT = 0.001; 
+const LIQUIDITY_ZIG_AMOUNT = 0.000808; 
 
 const BELIEF_PRICE_ORO_TO_ZIG = "1.982160555004955471"; 
 
