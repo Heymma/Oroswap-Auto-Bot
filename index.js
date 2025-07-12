@@ -194,7 +194,7 @@ async function performSwap(wallet, address, amount, fromDenom, swapNumber) {
       msg = {
         swap: {
           belief_price: beliefPrice,
-          max_spread: "0.1", 
+          max_spread: "0.02", 
           offer_asset: {
             amount: microAmount.toString(),
             info: { native_token: { denom: fromDenom } },
@@ -208,7 +208,7 @@ async function performSwap(wallet, address, amount, fromDenom, swapNumber) {
       msg = {
         swap: {
           belief_price: beliefPrice,
-          max_spread: "0.1", 
+          max_spread: "0.02", 
           offer_asset: {
             amount: microAmount.toString(),
             info: { native_token: { denom: fromDenom } },
