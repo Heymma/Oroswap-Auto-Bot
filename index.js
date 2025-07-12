@@ -54,7 +54,7 @@ const ORO_CONTRACT = 'zig10rfjm85jmzfhravjwpq3hcdz8ngxg7lxd0drkr';
 const LIQUIDITY_ORO_AMOUNT = 0.001; 
 const LIQUIDITY_ZIG_AMOUNT = 0.000904; 
 
-const BELIEF_PRICE_ORO_TO_ZIG = "1.982160555004955471"; 
+const BELIEF_PRICE_ORO_TO_ZIG = "1.113554"; 
 
 const rl = readline.createInterface({
   input: process.stdin,
